@@ -10,6 +10,17 @@
 ### Hi there 👋
 ### I’m Maico, a senior web application developer. I love developing websites and applications web. Love Macs. Love Symfony, PHP, React.js, TypeScript, MySQL, HTML5 & CSS
 
+<br>
+
+## 📝 Latest Blog Posts
+
+<br>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br>
+
 <!--
 ## 📌 Pinned Repositories
 
@@ -31,8 +42,6 @@
 
 <br>
 -->
-
-<br>
 
 ## 💼 Skills
 
