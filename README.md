@@ -1,4 +1,4 @@
-<!--[![Il mio blog](./assets/profilo.png)](https://www.mainickweb.com)-->
+[![Il mio blog](./assets/profilo.png)](https://www.mainickweb.com)
 
 [![Visite Badge](https://badges.pufler.dev/visits/MaiNick/MaiNick)](https://www.mainickweb.com)
 [![MaiNickWeb Blog](https://img.shields.io/static/v1?label=MaiNickWeb&message=Blog&logoColor=white&color=1CA2F1)](https://dev.to/mainick)
