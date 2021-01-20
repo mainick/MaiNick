@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
  schedule: # Run workflow automatically
    # This will make it run every hour
-   - cron: '0 * * * *' 
+   - cron: '10 1 * * *' 
   # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
  workflow_dispatch: 
 jobs:
@@ -14,4 +14,5 @@ jobs:
      - uses: gautamkrishnar/blog-post-workflow@master
        with:
          # Replace this URL with your rss feed URL/s
-         feed_list: "https://medium.com/feed/@mainick"
+         feed_list: "https://www.mainickweb.com/feed/"
+         max_post_count: 10
