@@ -8,7 +8,7 @@
 
 
 ### Hi there 👋
-### I’m Braydon, a senior web application developer. I love developing websites and applications web. Love Macs. Love Symfony, PHP, React.js, TypeScript, MySQL, HTML5 & CSS
+### I’m Maico, a senior web application developer. I love developing websites and applications web. Love Macs. Love Symfony, PHP, React.js, TypeScript, MySQL, HTML5 & CSS
 
 <!--
 ## 📌 Pinned Repositories
