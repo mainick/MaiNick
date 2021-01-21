@@ -4,7 +4,7 @@
 [![MaiNickWeb Blog](https://img.shields.io/static/v1?label=MaiNickWeb&message=Blog&logoColor=white&color=1CA2F1)](https://dev.to/mainick)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](http://www.linkedin.com/in/maicoorazio/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](http://twitter.com/mainick)
-[![Dev.to Badge](https://img.shields.io/static/v1?label=dev.to&message=profile&logoColor=white&color=1CA2F1)](https://dev.to/mainick)
+[![Medium Badge](https://img.shields.io/static/v1?label=Medium&message=profile&logoColor=white&color=1CA2F1)](https://medium.com/@mainick)
 
 
 Hi there 👋
@@ -18,9 +18,6 @@ Im Maico, a senior web application developer. I love developing websites and app
 <br>
 
 <!-- MEDIUM-STORIES:START -->
-- [Guida ai React Hooks — parte 3](https://medium.com/webeetle/guida-ai-react-hooks-parte-3-8541657ff5d5?source=rss-6d7da3992557------2)
-- [Guida ai React Hooks — parte 2](https://medium.com/webeetle/guida-ai-react-hooks-parte-2-c4cce979a65d?source=rss-6d7da3992557------2)
-- [Guida ai React Hooks — parte 1](https://medium.com/webeetle/guida-ai-react-hooks-parte-1-510693ea60f8?source=rss-6d7da3992557------2)
 <!-- MEDIUM-STORIES:END -->
 
 <br>
@@ -32,16 +29,6 @@ Im Maico, a senior web application developer. I love developing websites and app
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Guida ai React Hooks](https://www.mainickweb.com/guida-ai-react-hooks/)
-- [Come animare favicons con immagini, badges e video](https://www.mainickweb.com/favicons-con-immagini-badges-e-video/)
-- [MySQL Event Scheduler](https://www.mainickweb.com/mysql-event-scheduler/)
-- [Come creare una semplice applicazione di geolocalizzazione](https://www.mainickweb.com/come-creare-una-semplice-applicazione-di-geolocalizzazione/)
-- [Semplici espressioni regolari](https://www.mainickweb.com/semplici-espressioni-regolari/)
-- [Animazioni con jQuery in un sistema di votazione](https://www.mainickweb.com/animazioni-con-jquery-in-un-sistema-di-votazione/)
-- [Applicazioni Web Offline con HTML5](https://www.mainickweb.com/applicazioni-web-offline-con-html5/)
-- [jCanvas: manipolare i Canvas con jQuery](https://www.mainickweb.com/jcanvas-manipolare-i-canvas-con-jquery/)
-- [Come rendere il database più sicuro](https://www.mainickweb.com/come-rendere-il-database-pi-sicuro/)
-- [Menu Verticale con Effetto Fisarmonica – versione history](https://www.mainickweb.com/menu-verticale-con-effetto-fisarmonica-versione-history/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
@@ -70,11 +57,11 @@ Im Maico, a senior web application developer. I love developing websites and app
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-Symfony-informational?style=flat&logo=react&logoColor=white&color=337ab7)
-![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=react&logoColor=white&color=337ab7)
+![](https://img.shields.io/badge/Code-Symfony-informational?style=flat&logo=symfony&logoColor=white&color=337ab7)
+![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=337ab7)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=337ab7)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=337ab7)
-![](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=MySQL&logoColor=white&color=337ab7)
+![](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=337ab7)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=337ab7)
 
 <!--
@@ -89,15 +76,11 @@ Im Maico, a senior web application developer. I love developing websites and app
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=337ab7)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=337ab7)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=337ab7)
 ![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=337ab7)
-
-<br>
-
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=337ab7)
 ![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=337ab7)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=337ab7)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=337ab7)
+![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=yarn&logoColor=white&color=337ab7)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=337ab7)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=337ab7)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=337ab7)
