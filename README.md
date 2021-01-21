@@ -32,6 +32,16 @@ Im Maico, a senior web application developer. I love developing websites and app
 <br>
 
 <!-- BLOG-POST-LIST:START -->
+- [Guida ai React Hooks](https://www.mainickweb.com/guida-ai-react-hooks/)
+- [Come animare favicons con immagini, badges e video](https://www.mainickweb.com/favicons-con-immagini-badges-e-video/)
+- [MySQL Event Scheduler](https://www.mainickweb.com/mysql-event-scheduler/)
+- [Come creare una semplice applicazione di geolocalizzazione](https://www.mainickweb.com/come-creare-una-semplice-applicazione-di-geolocalizzazione/)
+- [Semplici espressioni regolari](https://www.mainickweb.com/semplici-espressioni-regolari/)
+- [Animazioni con jQuery in un sistema di votazione](https://www.mainickweb.com/animazioni-con-jquery-in-un-sistema-di-votazione/)
+- [Applicazioni Web Offline con HTML5](https://www.mainickweb.com/applicazioni-web-offline-con-html5/)
+- [jCanvas: manipolare i Canvas con jQuery](https://www.mainickweb.com/jcanvas-manipolare-i-canvas-con-jquery/)
+- [Come rendere il database più sicuro](https://www.mainickweb.com/come-rendere-il-database-pi-sicuro/)
+- [Menu Verticale con Effetto Fisarmonica – versione history](https://www.mainickweb.com/menu-verticale-con-effetto-fisarmonica-versione-history/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
