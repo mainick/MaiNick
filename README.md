@@ -104,6 +104,26 @@ Im Maico, a senior web application developer. I love developing websites and app
 
 <br>
 
+<br>
+
+## &#x1f4c8; My GitHub Stats
+
+<br>
+
+<a href="https://github.com/MaiNick">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaiNick&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</a>
+
+<a href="https://github.com/MaiNick">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiNick&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=337ab7&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/MaiNick">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=MaiNick&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+</a>
+
+<br>
+
 <!--
 <br>
 
