@@ -7,9 +7,11 @@
 [![Medium Badge](https://img.shields.io/static/v1?label=Medium&message=profile&logoColor=white&color=1CA2F1)](https://medium.com/@mainick)
 
 
-Hi there 👋
-<br/>
-Im Maico, a senior web application developer. I love developing websites and applications web. Love Macs. Love Symfony, PHP, React.js, TypeScript, MySQL, HTML5 & CSS
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Maico!
+
+---
+
+A senior web application developer. I love developing websites and applications web. Love Macs. Love Symfony, PHP, React.js, TypeScript, MySQL, HTML5 & CSS
 
 <br>
 
@@ -71,13 +73,24 @@ Im Maico, a senior web application developer. I love developing websites and app
 -->
 
 ## 💼 Skills
+<img class="larger" src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="Php Code" width="50" height="50"> 
+<img class="larger" src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="Symfony Code" width="50" height="50">
+<img class="larger" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Code" width="50" height="50">
+<img class="larger" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React.js Code" width="50" height="50">
+<img class="larger" src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg" alt="jQuery Code" width="50" height="50">
+<img class="larger" src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux Code" width="50" height="50">
+<!--<img class="larger" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Code" width="50" height="50">-->
+<img class="larger" src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="MySQL Code" width="50" height="50">
 
+
+<!--
 ![](https://img.shields.io/badge/Code-Symfony-informational?style=flat&logo=symfony&logoColor=white&color=337ab7)
 ![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=337ab7)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=337ab7)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=337ab7)
 ![](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=337ab7)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=337ab7)
+-->
 
 <!--
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=337ab7)
