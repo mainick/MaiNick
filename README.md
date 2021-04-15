@@ -76,17 +76,17 @@ A senior web application developer. I love developing websites and applications 
 <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="Php Code" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="Symfony Code" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Code" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React.js Code" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg" alt="jQuery Code" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux Code" width="50" height="50"/> <!--<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Code" width="50" height="50"/>--> <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="MySQL Code" width="50" height="50"/>
 
 
-<!--
+
 ![](https://img.shields.io/badge/Code-Symfony-informational?style=flat&logo=symfony&logoColor=white&color=337ab7)
 ![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=337ab7)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=337ab7)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=337ab7)
 ![](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=337ab7)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=337ab7)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=337ab7)
--->
+
 
 <!--
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=337ab7)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=337ab7)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=337ab7)
 -->
