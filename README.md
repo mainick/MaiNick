@@ -13,42 +13,25 @@
 
 A senior web application developer. I love developing websites and applications web. Love Macs. Love Symfony, PHP, React.js, TypeScript, MySQL, HTML5 & CSS
 
-<br>
+---
 
-## 📝 Latest stories on Medium
-
-<br>
+### 📝 Latest stories on Medium
 
 <!-- MEDIUM-STORIES:START -->
-- [Redux in React](https://medium.com/webeetle/redux-in-react-8045db540c5?source=rss-6d7da3992557------2)
-- [Redux in Vanilla Javascript](https://medium.com/webeetle/redux-in-vanilla-javascript-60394a936658?source=rss-6d7da3992557------2)
-- [Guida ai React Hooks — parte 3](https://medium.com/webeetle/guida-ai-react-hooks-parte-3-8541657ff5d5?source=rss-6d7da3992557------2)
-- [Guida ai React Hooks — parte 2](https://medium.com/webeetle/guida-ai-react-hooks-parte-2-c4cce979a65d?source=rss-6d7da3992557------2)
-- [Guida ai React Hooks — parte 1](https://medium.com/webeetle/guida-ai-react-hooks-parte-1-510693ea60f8?source=rss-6d7da3992557------2)
 <!-- MEDIUM-STORIES:END -->
 
-<br>
+▶ [...more stories](https://medium.com/webeetle)
 
-<br>
+---
 
-## 📝 Latest Blog Posts
-
-<br>
+### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Guida ai React Hooks](https://www.mainickweb.com/guida-ai-react-hooks/)
-- [Come animare favicons con immagini, badges e video](https://www.mainickweb.com/favicons-con-immagini-badges-e-video/)
-- [MySQL Event Scheduler](https://www.mainickweb.com/mysql-event-scheduler/)
-- [Come creare una semplice applicazione di geolocalizzazione](https://www.mainickweb.com/come-creare-una-semplice-applicazione-di-geolocalizzazione/)
-- [Semplici espressioni regolari](https://www.mainickweb.com/semplici-espressioni-regolari/)
-- [Animazioni con jQuery in un sistema di votazione](https://www.mainickweb.com/animazioni-con-jquery-in-un-sistema-di-votazione/)
-- [Applicazioni Web Offline con HTML5](https://www.mainickweb.com/applicazioni-web-offline-con-html5/)
-- [jCanvas: manipolare i Canvas con jQuery](https://www.mainickweb.com/jcanvas-manipolare-i-canvas-con-jquery/)
-- [Come rendere il database più sicuro](https://www.mainickweb.com/come-rendere-il-database-pi-sicuro/)
-- [Menu Verticale con Effetto Fisarmonica – versione history](https://www.mainickweb.com/menu-verticale-con-effetto-fisarmonica-versione-history/)
 <!-- BLOG-POST-LIST:END -->
 
-<br>
+▶ [...more blog posts](https://www.mainickweb.com)
+
+---
 
 <!--
 ## 📌 Pinned Repositories
@@ -72,7 +55,7 @@ A senior web application developer. I love developing websites and applications 
 <br>
 -->
 
-## 💼 Skills
+### 💼 Skills
 <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="Php Code" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="Symfony Code" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Code" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React.js Code" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg" alt="jQuery Code" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux Code" width="50" height="50"/> <!--<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Code" width="50" height="50"/>--> <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="MySQL Code" width="50" height="50"/>
 
 
