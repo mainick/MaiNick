@@ -18,6 +18,7 @@ A senior web application developer. I love developing websites and applications 
 ### 📝 Latest stories on Medium
 
 <!-- MEDIUM-STORIES:START -->
+- [Cosa c’è di nuovo in React 18](https://medium.com/webeetle/cosa-c%C3%A8-di-nuovo-in-react-18-d432b8262c7f?source=rss-6d7da3992557------2)
 - [Azioni asincrone in Redux](https://medium.com/webeetle/azioni-asincrone-in-redux-1e0d0b0d9c5d?source=rss-6d7da3992557------2)
 - [Semplificare Redux con Redux Toolkit](https://medium.com/webeetle/semplificare-redux-con-redux-toolkit-f8c2072150e9?source=rss-6d7da3992557------2)
 - [Redux in React](https://medium.com/webeetle/redux-in-react-8045db540c5?source=rss-6d7da3992557------2)
