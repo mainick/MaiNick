@@ -1,6 +1,8 @@
 <!--[![Il mio blog](./assets/profilo.png)](https://www.mainickweb.com)-->
 
 [![](https://visitcount.itsvg.in/api?id=mainick&icon=9&color=0)](https://www.mainickweb.com)
+
+
 [![Visite Badge](https://badges.pufler.dev/visits/MaiNick/MaiNick)](https://www.mainickweb.com)
 [![MaiNick Web - Blog](https://img.shields.io/badge/MaiNickWeb-%231877F2.svg?logo=Dev.to&logoColor=white)](https://www.mainickweb.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/maico.orazio) 
@@ -58,8 +60,6 @@ A senior web application developer. I love developing websites and applications 
 -->
 
 ### 💼 Skills
-
-<img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="Php Code" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="Symfony Code" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Code" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React.js Code" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg" alt="jQuery Code" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux Code" width="50" height="50"/> <!--<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Code" width="50" height="50"/>--> <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="MySQL Code" width="50" height="50"/>
 
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
