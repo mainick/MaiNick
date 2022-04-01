@@ -1,10 +1,12 @@
 <!--[![Il mio blog](./assets/profilo.png)](https://www.mainickweb.com)-->
 
+[![](https://visitcount.itsvg.in/api?id=mainick&icon=9&color=0)](https://www.mainickweb.com)
 [![Visite Badge](https://badges.pufler.dev/visits/MaiNick/MaiNick)](https://www.mainickweb.com)
-[![MaiNickWeb Blog](https://img.shields.io/static/v1?label=MaiNickWeb&message=Blog&logoColor=white&color=1CA2F1)](https://dev.to/mainick)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](http://www.linkedin.com/in/maicoorazio/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](http://twitter.com/mainick)
-[![Medium Badge](https://img.shields.io/static/v1?label=Medium&message=profile&logoColor=white&color=1CA2F1)](https://medium.com/@mainick)
+[![MaiNick Web - Blog](https://img.shields.io/badge/MaiNickWeb-%231877F2.svg?logo=Dev.to&logoColor=white)](https://www.mainickweb.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/maico.orazio) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maicoorazio) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mainick) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mainick) 
 
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Maico!
@@ -18,15 +20,6 @@ A senior web application developer. I love developing websites and applications 
 ### 📝 Latest stories on Medium
 
 <!-- MEDIUM-STORIES:START -->
-- [Come gestire gli errori in React](https://medium.com/webeetle/come-gestire-gli-errori-in-react-9c5c1faddbee?source=rss-6d7da3992557------2)
-- [Cosa c’è di nuovo in React 18](https://medium.com/webeetle/cosa-c%C3%A8-di-nuovo-in-react-18-d432b8262c7f?source=rss-6d7da3992557------2)
-- [Azioni asincrone in Redux](https://medium.com/webeetle/azioni-asincrone-in-redux-1e0d0b0d9c5d?source=rss-6d7da3992557------2)
-- [Semplificare Redux con Redux Toolkit](https://medium.com/webeetle/semplificare-redux-con-redux-toolkit-f8c2072150e9?source=rss-6d7da3992557------2)
-- [Redux in React](https://medium.com/webeetle/redux-in-react-8045db540c5?source=rss-6d7da3992557------2)
-- [Redux in Vanilla Javascript](https://medium.com/webeetle/redux-in-vanilla-javascript-60394a936658?source=rss-6d7da3992557------2)
-- [Guida ai React Hooks — parte 3](https://medium.com/webeetle/guida-ai-react-hooks-parte-3-8541657ff5d5?source=rss-6d7da3992557------2)
-- [Guida ai React Hooks — parte 2](https://medium.com/webeetle/guida-ai-react-hooks-parte-2-c4cce979a65d?source=rss-6d7da3992557------2)
-- [Guida ai React Hooks — parte 1](https://medium.com/webeetle/guida-ai-react-hooks-parte-1-510693ea60f8?source=rss-6d7da3992557------2)
 <!-- MEDIUM-STORIES:END -->
 
 ▶ [...more stories](https://medium.com/webeetle)
@@ -36,16 +29,6 @@ A senior web application developer. I love developing websites and applications 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Guida ai React Hooks](https://www.mainickweb.com/guida-ai-react-hooks/)
-- [Come animare favicons con immagini, badges e video](https://www.mainickweb.com/favicons-con-immagini-badges-e-video/)
-- [MySQL Event Scheduler](https://www.mainickweb.com/mysql-event-scheduler/)
-- [Come creare una semplice applicazione di geolocalizzazione](https://www.mainickweb.com/come-creare-una-semplice-applicazione-di-geolocalizzazione/)
-- [Semplici espressioni regolari](https://www.mainickweb.com/semplici-espressioni-regolari/)
-- [Animazioni con jQuery in un sistema di votazione](https://www.mainickweb.com/animazioni-con-jquery-in-un-sistema-di-votazione/)
-- [Applicazioni Web Offline con HTML5](https://www.mainickweb.com/applicazioni-web-offline-con-html5/)
-- [jCanvas: manipolare i Canvas con jQuery](https://www.mainickweb.com/jcanvas-manipolare-i-canvas-con-jquery/)
-- [Come rendere il database più sicuro](https://www.mainickweb.com/come-rendere-il-database-pi-sicuro/)
-- [Menu Verticale con Effetto Fisarmonica – versione history](https://www.mainickweb.com/menu-verticale-con-effetto-fisarmonica-versione-history/)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog posts](https://www.mainickweb.com)
@@ -79,14 +62,13 @@ A senior web application developer. I love developing websites and applications 
 <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="Php Code" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/symfony.svg" alt="Symfony Code" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Code" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React.js Code" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/jquery-2.svg" alt="jQuery Code" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux Code" width="50" height="50"/> <!--<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Code" width="50" height="50"/>--> <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="MySQL Code" width="50" height="50"/>
 
 
-
-![](https://img.shields.io/badge/Code-Symfony-informational?style=flat&logo=symfony&logoColor=white&color=337ab7)
-![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=337ab7)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=337ab7)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=337ab7)
-![](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=337ab7)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=337ab7)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=337ab7)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 <!--
@@ -98,18 +80,38 @@ A senior web application developer. I love developing websites and applications 
 <summary>More Skills</summary>
 <br>
 
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=337ab7)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=337ab7)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=337ab7)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=337ab7)
-![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=337ab7)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=337ab7)
-![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=yarn&logoColor=white&color=337ab7)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=337ab7)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=337ab7)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=337ab7)
-![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=337ab7)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=337ab7)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%2338B2AC.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23E34F26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-%230170FE.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 </details>
 
