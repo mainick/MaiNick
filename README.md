@@ -40,6 +40,16 @@ A senior web application developer. I love developing websites and applications 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Guida ai React Hooks](https://www.mainickweb.com/blog/guida-ai-react-hooks)
+- [Come animare favicons con immagini, badges e video](https://www.mainickweb.com/blog/favicons-con-immagini-badges-e-video)
+- [MySQL Event Scheduler](https://www.mainickweb.com/blog/mysql-event-scheduler)
+- [Come creare una semplice applicazione di geolocalizzazione](https://www.mainickweb.com/blog/come-creare-una-semplice-applicazione-di-geolocalizzazione)
+- [Semplici espressioni regolari](https://www.mainickweb.com/blog/semplici-espressioni-regolari)
+- [Animazioni con jQuery in un sistema di votazione](https://www.mainickweb.com/blog/animazioni-con-jquery-in-un-sistema-di-votazione)
+- [Applicazioni Web Offline con HTML5](https://www.mainickweb.com/blog/applicazioni-web-offline-con-html5)
+- [Come rendere il database più sicuro](https://www.mainickweb.com/blog/come-rendere-il-database-pi-sicuro)
+- [Menu Verticale con Effetto Fisarmonica - versione history](https://www.mainickweb.com/blog/menu-verticale-con-effetto-fisarmonica-versione-history)
+- [Xdebug: debugging e profiling delle applicazioni PHP](https://www.mainickweb.com/blog/xdebug-debugging-e-profiling-delle-applicazioni-php)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog posts](https://www.mainickweb.com)
