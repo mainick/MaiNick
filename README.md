@@ -41,6 +41,7 @@ A senior web application developer. I love developing websites and applications 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [array_merge di PHP utilizzato in un ciclo è una pessima pratica](https://www.mainickweb.com/blog/array_merge-di-php-utilizzato-in-un-ciclo-e-una-pessima-pratica)
 - [Guida ai React Hooks](https://www.mainickweb.com/blog/guida-ai-react-hooks)
 - [Come animare favicons con immagini, badges e video](https://www.mainickweb.com/blog/favicons-con-immagini-badges-e-video)
 - [MySQL Event Scheduler](https://www.mainickweb.com/blog/mysql-event-scheduler)
@@ -50,7 +51,6 @@ A senior web application developer. I love developing websites and applications 
 - [Applicazioni Web Offline con HTML5](https://www.mainickweb.com/blog/applicazioni-web-offline-con-html5)
 - [Come rendere il database più sicuro](https://www.mainickweb.com/blog/come-rendere-il-database-pi-sicuro)
 - [Menu Verticale con Effetto Fisarmonica - versione history](https://www.mainickweb.com/blog/menu-verticale-con-effetto-fisarmonica-versione-history)
-- [Xdebug: debugging e profiling delle applicazioni PHP](https://www.mainickweb.com/blog/xdebug-debugging-e-profiling-delle-applicazioni-php)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog posts](https://www.mainickweb.com)
