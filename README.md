@@ -22,6 +22,7 @@ A senior web application developer. I love developing websites and applications 
 ### 📝 Latest stories on Medium
 
 <!-- MEDIUM-STORIES:START -->
+- [Il particolare comportamento dell’auto-increment nelle tabelle MySQL InnoDB](https://medium.com/webeetle/il-particolare-comportamento-dellauto-increment-nelle-tabelle-mysql-innodb-4fd769c340cd?source=rss-6d7da3992557------2)
 - [L’evoluzione di PHP](https://medium.com/webeetle/levoluzione-di-php-5301f6402b30?source=rss-6d7da3992557------2)
 - [Come gestire gli errori in React](https://medium.com/webeetle/come-gestire-gli-errori-in-react-9c5c1faddbee?source=rss-6d7da3992557------2)
 - [Cosa c’è di nuovo in React 18](https://medium.com/webeetle/cosa-c%C3%A8-di-nuovo-in-react-18-d432b8262c7f?source=rss-6d7da3992557------2)
@@ -31,7 +32,6 @@ A senior web application developer. I love developing websites and applications 
 - [Redux in Vanilla Javascript](https://medium.com/webeetle/redux-in-vanilla-javascript-60394a936658?source=rss-6d7da3992557------2)
 - [Guida ai React Hooks — parte 3](https://medium.com/webeetle/guida-ai-react-hooks-parte-3-8541657ff5d5?source=rss-6d7da3992557------2)
 - [Guida ai React Hooks — parte 2](https://medium.com/webeetle/guida-ai-react-hooks-parte-2-c4cce979a65d?source=rss-6d7da3992557------2)
-- [Guida ai React Hooks — parte 1](https://medium.com/webeetle/guida-ai-react-hooks-parte-1-510693ea60f8?source=rss-6d7da3992557------2)
 <!-- MEDIUM-STORIES:END -->
 
 ▶ [...more stories](https://medium.com/webeetle)
