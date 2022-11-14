@@ -41,6 +41,7 @@ A senior web application developer. I love developing websites and applications 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gli operatori Rest e Spread e la destrutturazione](https://www.mainickweb.com/blog/gli-operatori-rest-e-spread-e-la-destrutturazione)
 - [Gli operatori in JavaScript](https://www.mainickweb.com/blog/gli-operatori-in-javascript)
 - [array_merge di PHP utilizzato in un ciclo è una pessima pratica](https://www.mainickweb.com/blog/array_merge-di-php-utilizzato-in-un-ciclo-e-una-pessima-pratica)
 - [Guida ai React Hooks](https://www.mainickweb.com/blog/guida-ai-react-hooks)
@@ -50,7 +51,6 @@ A senior web application developer. I love developing websites and applications 
 - [Semplici espressioni regolari](https://www.mainickweb.com/blog/semplici-espressioni-regolari)
 - [Animazioni con jQuery in un sistema di votazione](https://www.mainickweb.com/blog/animazioni-con-jquery-in-un-sistema-di-votazione)
 - [Applicazioni Web Offline con HTML5](https://www.mainickweb.com/blog/applicazioni-web-offline-con-html5)
-- [Come rendere il database più sicuro](https://www.mainickweb.com/blog/come-rendere-il-database-pi-sicuro)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog posts](https://www.mainickweb.com)
