@@ -41,6 +41,7 @@ A senior web application developer. I love developing websites and applications 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Valori mutabili e immutabili](https://www.mainickweb.com/blog/valori-mutabili-e-immutabili)
 - [Promise e Async/Await](https://www.mainickweb.com/blog/promise-e-async-await)
 - [Arrow Function e Callback in JavaScript](https://www.mainickweb.com/blog/arrow-function-e-callback-in-javascript)
 - [Gli operatori Rest e Spread e la destrutturazione](https://www.mainickweb.com/blog/gli-operatori-rest-e-spread-e-la-destrutturazione)
@@ -50,7 +51,6 @@ A senior web application developer. I love developing websites and applications 
 - [Come animare favicons con immagini, badges e video](https://www.mainickweb.com/blog/favicons-con-immagini-badges-e-video)
 - [MySQL Event Scheduler](https://www.mainickweb.com/blog/mysql-event-scheduler)
 - [Come creare una semplice applicazione di geolocalizzazione](https://www.mainickweb.com/blog/come-creare-una-semplice-applicazione-di-geolocalizzazione)
-- [Semplici espressioni regolari](https://www.mainickweb.com/blog/semplici-espressioni-regolari)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog posts](https://www.mainickweb.com)
