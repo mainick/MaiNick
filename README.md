@@ -41,6 +41,7 @@ A senior web application developer. I love developing websites and applications 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Come testare un service privato in Symfony](https://www.mainickweb.com/blog/come-testare-un-service-privato-in-symfony)
 - [PHP Match Expression - Match vs Switch](https://www.mainickweb.com/blog/php-match-expression-match-vs-switch)
 - [Funzioni di Ordine Superiore &lpar;HOF&rpar; in JavaScript](https://www.mainickweb.com/blog/funzioni-di-ordine-superiore-in-javascript)
 - [Valori mutabili e immutabili](https://www.mainickweb.com/blog/valori-mutabili-e-immutabili)
@@ -50,7 +51,6 @@ A senior web application developer. I love developing websites and applications 
 - [Gli operatori in JavaScript](https://www.mainickweb.com/blog/gli-operatori-in-javascript)
 - [array_merge di PHP utilizzato in un ciclo è una pessima pratica](https://www.mainickweb.com/blog/array_merge-di-php-utilizzato-in-un-ciclo-e-una-pessima-pratica)
 - [Guida ai React Hooks](https://www.mainickweb.com/blog/guida-ai-react-hooks)
-- [Come animare favicons con immagini, badges e video](https://www.mainickweb.com/blog/favicons-con-immagini-badges-e-video)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog posts](https://www.mainickweb.com)
