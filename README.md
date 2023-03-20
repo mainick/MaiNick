@@ -41,6 +41,7 @@ A senior web application developer. I love developing websites and applications 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Parametri delle funzioni in PHP](https://www.mainickweb.com/blog/parametri-delle-funzioni-in-php)
 - [Che cosa è this in JavaScript?](https://www.mainickweb.com/blog/che-cos-e-this-in-javascript)
 - [Come testare un service privato in Symfony](https://www.mainickweb.com/blog/come-testare-un-service-privato-in-symfony)
 - [PHP Match Expression - Match vs Switch](https://www.mainickweb.com/blog/php-match-expression-match-vs-switch)
@@ -50,7 +51,6 @@ A senior web application developer. I love developing websites and applications 
 - [Arrow Function e Callback in JavaScript](https://www.mainickweb.com/blog/arrow-function-e-callback-in-javascript)
 - [Gli operatori Rest e Spread e la destrutturazione](https://www.mainickweb.com/blog/gli-operatori-rest-e-spread-e-la-destrutturazione)
 - [Gli operatori in JavaScript](https://www.mainickweb.com/blog/gli-operatori-in-javascript)
-- [array_merge di PHP utilizzato in un ciclo è una pessima pratica](https://www.mainickweb.com/blog/array_merge-di-php-utilizzato-in-un-ciclo-e-una-pessima-pratica)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog posts](https://www.mainickweb.com)
