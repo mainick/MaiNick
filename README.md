@@ -41,6 +41,7 @@ A senior web application developer. I love developing websites and applications 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Strategy Pattern - Design Patterns](https://www.mainickweb.com/blog/strategy-pattern-design-patterns)
 - [Dependency Injection - Design Patterns](https://www.mainickweb.com/blog/dependency-injection-design-patterns)
 - [Parametri delle funzioni in PHP](https://www.mainickweb.com/blog/parametri-delle-funzioni-in-php)
 - [Che cosa è this in JavaScript?](https://www.mainickweb.com/blog/che-cos-e-this-in-javascript)
@@ -50,7 +51,6 @@ A senior web application developer. I love developing websites and applications 
 - [Valori mutabili e immutabili](https://www.mainickweb.com/blog/valori-mutabili-e-immutabili)
 - [Promise e Async/Await](https://www.mainickweb.com/blog/promise-e-async-await)
 - [Arrow Function e Callback in JavaScript](https://www.mainickweb.com/blog/arrow-function-e-callback-in-javascript)
-- [Gli operatori Rest e Spread e la destrutturazione](https://www.mainickweb.com/blog/gli-operatori-rest-e-spread-e-la-destrutturazione)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog posts](https://www.mainickweb.com)
