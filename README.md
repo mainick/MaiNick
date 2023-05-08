@@ -41,6 +41,7 @@ A senior web application developer. I love developing websites and applications 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Observer Pattern - Design Patterns](https://www.mainickweb.com/blog/observer-pattern-design-patterns)
 - [Strategy Pattern - Design Patterns](https://www.mainickweb.com/blog/strategy-pattern-design-patterns)
 - [Dependency Injection - Design Patterns](https://www.mainickweb.com/blog/dependency-injection-design-patterns)
 - [Parametri delle funzioni in PHP](https://www.mainickweb.com/blog/parametri-delle-funzioni-in-php)
@@ -50,7 +51,6 @@ A senior web application developer. I love developing websites and applications 
 - [Funzioni di Ordine Superiore &lpar;HOF&rpar; in JavaScript](https://www.mainickweb.com/blog/funzioni-di-ordine-superiore-in-javascript)
 - [Valori mutabili e immutabili](https://www.mainickweb.com/blog/valori-mutabili-e-immutabili)
 - [Promise e Async/Await](https://www.mainickweb.com/blog/promise-e-async-await)
-- [Arrow Function e Callback in JavaScript](https://www.mainickweb.com/blog/arrow-function-e-callback-in-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog posts](https://www.mainickweb.com)
