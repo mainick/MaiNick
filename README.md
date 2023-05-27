@@ -22,6 +22,7 @@ A senior web application developer. I love developing websites and applications 
 ### 📝 Latest stories on Medium
 
 <!-- MEDIUM-STORIES:START -->
+- [Le principali funzionalità di PHP 8.0](https://medium.com/webeetle/le-principali-funzionalit%C3%A0-di-php-8-0-fa880200d8f5?source=rss-6d7da3992557------2)
 - [Novità in PHP 7](https://medium.com/webeetle/novit%C3%A0-in-php-7-bb085c6f2e05?source=rss-6d7da3992557------2)
 - [Il particolare comportamento dell’auto-increment nelle tabelle MySQL InnoDB](https://medium.com/webeetle/il-particolare-comportamento-dellauto-increment-nelle-tabelle-mysql-innodb-4fd769c340cd?source=rss-6d7da3992557------2)
 - [L’evoluzione di PHP](https://medium.com/webeetle/levoluzione-di-php-5301f6402b30?source=rss-6d7da3992557------2)
@@ -31,7 +32,6 @@ A senior web application developer. I love developing websites and applications 
 - [Semplificare Redux con Redux Toolkit](https://medium.com/webeetle/semplificare-redux-con-redux-toolkit-f8c2072150e9?source=rss-6d7da3992557------2)
 - [Redux in React](https://medium.com/webeetle/redux-in-react-8045db540c5?source=rss-6d7da3992557------2)
 - [Redux in Vanilla Javascript](https://medium.com/webeetle/redux-in-vanilla-javascript-60394a936658?source=rss-6d7da3992557------2)
-- [Guida ai React Hooks — parte 3](https://medium.com/webeetle/guida-ai-react-hooks-parte-3-8541657ff5d5?source=rss-6d7da3992557------2)
 <!-- MEDIUM-STORIES:END -->
 
 ▶ [...more stories](https://medium.com/webeetle)
