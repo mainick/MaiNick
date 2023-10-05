@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest dev.to post workflow
 on:
  schedule: # Run workflow automatically
    # This will make it run every hour
