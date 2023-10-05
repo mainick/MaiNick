@@ -22,16 +22,6 @@ A senior web application developer. I love developing websites and applications 
 ### 📝 Latest stories on Medium
 
 <!-- MEDIUM-STORIES:START -->
-- [Novità delle ultime minor di PHP 8.x](https://medium.com/webeetle/novit%C3%A0-delle-ultime-minor-di-php-8-x-555914b8e395?source=rss-6d7da3992557------2)
-- [Attributi in PHP 8](https://medium.com/webeetle/attributi-in-php-8-d0670a777f1a?source=rss-6d7da3992557------2)
-- [phpDay 2023](https://medium.com/webeetle/phpday-2023-3b4c83d95bc3?source=rss-6d7da3992557------2)
-- [Le principali funzionalità di PHP 8.0](https://medium.com/webeetle/le-principali-funzionalit%C3%A0-di-php-8-0-fa880200d8f5?source=rss-6d7da3992557------2)
-- [Novità in PHP 7](https://medium.com/webeetle/novit%C3%A0-in-php-7-bb085c6f2e05?source=rss-6d7da3992557------2)
-- [Il particolare comportamento dell’auto-increment nelle tabelle MySQL InnoDB](https://medium.com/webeetle/il-particolare-comportamento-dellauto-increment-nelle-tabelle-mysql-innodb-4fd769c340cd?source=rss-6d7da3992557------2)
-- [L’evoluzione di PHP](https://medium.com/webeetle/levoluzione-di-php-5301f6402b30?source=rss-6d7da3992557------2)
-- [Come gestire gli errori in React](https://medium.com/webeetle/come-gestire-gli-errori-in-react-9c5c1faddbee?source=rss-6d7da3992557------2)
-- [Cosa c’è di nuovo in React 18](https://medium.com/webeetle/cosa-c%C3%A8-di-nuovo-in-react-18-d432b8262c7f?source=rss-6d7da3992557------2)
-- [Azioni asincrone in Redux](https://medium.com/webeetle/azioni-asincrone-in-redux-1e0d0b0d9c5d?source=rss-6d7da3992557------2)
 <!-- MEDIUM-STORIES:END -->
 
 ▶ [...more stories](https://medium.com/webeetle)
@@ -41,43 +31,30 @@ A senior web application developer. I love developing websites and applications 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Analisi delle date utilizzando le funzioni date_parse&lpar;&rpar; e date_parse_from_format&lpar;&rpar;](https://www.mainickweb.com/blog/analisi-delle-date-utilizzando-le-funzioni-date_parse-e-date_parse_from_format)
-- [Observer Pattern - Design Patterns](https://www.mainickweb.com/blog/observer-pattern-design-patterns)
-- [Strategy Pattern - Design Patterns](https://www.mainickweb.com/blog/strategy-pattern-design-patterns)
-- [Dependency Injection - Design Patterns](https://www.mainickweb.com/blog/dependency-injection-design-patterns)
-- [Parametri delle funzioni in PHP](https://www.mainickweb.com/blog/parametri-delle-funzioni-in-php)
-- [Che cosa è this in JavaScript?](https://www.mainickweb.com/blog/che-cos-e-this-in-javascript)
-- [Come testare un service privato in Symfony](https://www.mainickweb.com/blog/come-testare-un-service-privato-in-symfony)
-- [PHP Match Expression - Match vs Switch](https://www.mainickweb.com/blog/php-match-expression-match-vs-switch)
-- [Funzioni di Ordine Superiore &lpar;HOF&rpar; in JavaScript](https://www.mainickweb.com/blog/funzioni-di-ordine-superiore-in-javascript)
-- [Valori mutabili e immutabili](https://www.mainickweb.com/blog/valori-mutabili-e-immutabili)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog posts](https://www.mainickweb.com)
 
 ---
 
-<!--
-## 📌 Pinned Repositories
+### 📝 Latest stories on Dev.to
+
+<!-- DEV-TO-POST-LIST:START -->
+<!-- DEV-TO-POST-LIST:END -->
+
+▶ [...more stories](https://medium.com/webeetle)
+
+---
+
+### 📌 Pinned Repositories
 
 <br>
 
 <a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=337ab7&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mainick&repo=KeycloakClientBundle&title_color=ffffff&text_color=c9cacc&icon_color=337ab7&bg_color=1A2B34" />
 </a>
 
 <br>
-
-<a href="https://github.com/braydoncoyer/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=337ab7&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/braydoncoyer/officeapi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=337ab7&bg_color=1A2B34" />
-</a>
-
-<br>
--->
 
 ### 💼 Skills
 
@@ -100,7 +77,6 @@ A senior web application developer. I love developing websites and applications 
 <summary>More Skills</summary>
 <br>
 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -109,15 +85,12 @@ A senior web application developer. I love developing websites and applications 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%2338B2AC.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-%23E34F26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-%230170FE.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
