@@ -15,23 +15,13 @@
 
 ---
 
-A senior web application developer. I love developing websites and applications web. Love Macs. Love Symfony, PHP, React.js, TypeScript, MySQL, HTML5 & CSS
+Senior Web Application Developer. I am a software engineer, a passionate coder, and a web developer. I am a fan of technology. #php #symfony #javascript #reactjs
 
 ---
 
 ### 📝 Latest stories on Medium
 
 <!-- MEDIUM-STORIES:START -->
-- [Novità delle ultime minor di PHP 8.x](https://medium.com/webeetle/novit%C3%A0-delle-ultime-minor-di-php-8-x-555914b8e395?source=rss-6d7da3992557------2)
-- [Attributi in PHP 8](https://medium.com/webeetle/attributi-in-php-8-d0670a777f1a?source=rss-6d7da3992557------2)
-- [phpDay 2023](https://medium.com/webeetle/phpday-2023-3b4c83d95bc3?source=rss-6d7da3992557------2)
-- [Le principali funzionalità di PHP 8.0](https://medium.com/webeetle/le-principali-funzionalit%C3%A0-di-php-8-0-fa880200d8f5?source=rss-6d7da3992557------2)
-- [Novità in PHP 7](https://medium.com/webeetle/novit%C3%A0-in-php-7-bb085c6f2e05?source=rss-6d7da3992557------2)
-- [Il particolare comportamento dell’auto-increment nelle tabelle MySQL InnoDB](https://medium.com/webeetle/il-particolare-comportamento-dellauto-increment-nelle-tabelle-mysql-innodb-4fd769c340cd?source=rss-6d7da3992557------2)
-- [L’evoluzione di PHP](https://medium.com/webeetle/levoluzione-di-php-5301f6402b30?source=rss-6d7da3992557------2)
-- [Come gestire gli errori in React](https://medium.com/webeetle/come-gestire-gli-errori-in-react-9c5c1faddbee?source=rss-6d7da3992557------2)
-- [Cosa c’è di nuovo in React 18](https://medium.com/webeetle/cosa-c%C3%A8-di-nuovo-in-react-18-d432b8262c7f?source=rss-6d7da3992557------2)
-- [Azioni asincrone in Redux](https://medium.com/webeetle/azioni-asincrone-in-redux-1e0d0b0d9c5d?source=rss-6d7da3992557------2)
 <!-- MEDIUM-STORIES:END -->
 
 ▶ [...more stories](https://medium.com/webeetle)
@@ -41,16 +31,6 @@ A senior web application developer. I love developing websites and applications 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Analisi delle date utilizzando le funzioni date_parse&lpar;&rpar; e date_parse_from_format&lpar;&rpar;](https://www.mainickweb.com/blog/analisi-delle-date-utilizzando-le-funzioni-date_parse-e-date_parse_from_format)
-- [Observer Pattern - Design Patterns](https://www.mainickweb.com/blog/observer-pattern-design-patterns)
-- [Strategy Pattern - Design Patterns](https://www.mainickweb.com/blog/strategy-pattern-design-patterns)
-- [Dependency Injection - Design Patterns](https://www.mainickweb.com/blog/dependency-injection-design-patterns)
-- [Parametri delle funzioni in PHP](https://www.mainickweb.com/blog/parametri-delle-funzioni-in-php)
-- [Che cosa è this in JavaScript?](https://www.mainickweb.com/blog/che-cos-e-this-in-javascript)
-- [Come testare un service privato in Symfony](https://www.mainickweb.com/blog/come-testare-un-service-privato-in-symfony)
-- [PHP Match Expression - Match vs Switch](https://www.mainickweb.com/blog/php-match-expression-match-vs-switch)
-- [Funzioni di Ordine Superiore &lpar;HOF&rpar; in JavaScript](https://www.mainickweb.com/blog/funzioni-di-ordine-superiore-in-javascript)
-- [Valori mutabili e immutabili](https://www.mainickweb.com/blog/valori-mutabili-e-immutabili)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog posts](https://www.mainickweb.com)
@@ -60,10 +40,6 @@ A senior web application developer. I love developing websites and applications 
 ### 📝 Latest stories on Dev.to
 
 <!-- DEV-TO-POST-LIST:START -->
-- [How to test a private service in Symfony](https://dev.to/mainick/how-to-test-a-private-service-in-symfony-2m91)
-- [PHP Match Expression - Match vs Switch](https://dev.to/mainick/php-match-expression-match-vs-switch-3j5b)
-- [Using array_merge in a PHP loop is considered bad practice](https://dev.to/mainick/using-arraymerge-in-a-php-loop-is-considered-bad-practice-3bgd)
-- [Guida ai React Hooks](https://dev.to/mainick/guida-ai-react-hooks-1aii)
 <!-- DEV-TO-POST-LIST:END -->
 
 ▶ [...more stories](https://medium.com/webeetle)
@@ -74,7 +50,7 @@ A senior web application developer. I love developing websites and applications 
 
 <br>
 
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
+<a href="https://github.com/mainick/KeycloakClientBundle">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=mainick&repo=KeycloakClientBundle&title_color=ffffff&text_color=c9cacc&icon_color=337ab7&bg_color=1A2B34" />
 </a>
 
