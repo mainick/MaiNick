@@ -22,6 +22,16 @@ A senior web application developer. I love developing websites and applications 
 ### 📝 Latest stories on Medium
 
 <!-- MEDIUM-STORIES:START -->
+- [Novità delle ultime minor di PHP 8.x](https://medium.com/webeetle/novit%C3%A0-delle-ultime-minor-di-php-8-x-555914b8e395?source=rss-6d7da3992557------2)
+- [Attributi in PHP 8](https://medium.com/webeetle/attributi-in-php-8-d0670a777f1a?source=rss-6d7da3992557------2)
+- [phpDay 2023](https://medium.com/webeetle/phpday-2023-3b4c83d95bc3?source=rss-6d7da3992557------2)
+- [Le principali funzionalità di PHP 8.0](https://medium.com/webeetle/le-principali-funzionalit%C3%A0-di-php-8-0-fa880200d8f5?source=rss-6d7da3992557------2)
+- [Novità in PHP 7](https://medium.com/webeetle/novit%C3%A0-in-php-7-bb085c6f2e05?source=rss-6d7da3992557------2)
+- [Il particolare comportamento dell’auto-increment nelle tabelle MySQL InnoDB](https://medium.com/webeetle/il-particolare-comportamento-dellauto-increment-nelle-tabelle-mysql-innodb-4fd769c340cd?source=rss-6d7da3992557------2)
+- [L’evoluzione di PHP](https://medium.com/webeetle/levoluzione-di-php-5301f6402b30?source=rss-6d7da3992557------2)
+- [Come gestire gli errori in React](https://medium.com/webeetle/come-gestire-gli-errori-in-react-9c5c1faddbee?source=rss-6d7da3992557------2)
+- [Cosa c’è di nuovo in React 18](https://medium.com/webeetle/cosa-c%C3%A8-di-nuovo-in-react-18-d432b8262c7f?source=rss-6d7da3992557------2)
+- [Azioni asincrone in Redux](https://medium.com/webeetle/azioni-asincrone-in-redux-1e0d0b0d9c5d?source=rss-6d7da3992557------2)
 <!-- MEDIUM-STORIES:END -->
 
 ▶ [...more stories](https://medium.com/webeetle)
