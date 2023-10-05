@@ -31,6 +31,16 @@ A senior web application developer. I love developing websites and applications 
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Analisi delle date utilizzando le funzioni date_parse&lpar;&rpar; e date_parse_from_format&lpar;&rpar;](https://www.mainickweb.com/blog/analisi-delle-date-utilizzando-le-funzioni-date_parse-e-date_parse_from_format)
+- [Observer Pattern - Design Patterns](https://www.mainickweb.com/blog/observer-pattern-design-patterns)
+- [Strategy Pattern - Design Patterns](https://www.mainickweb.com/blog/strategy-pattern-design-patterns)
+- [Dependency Injection - Design Patterns](https://www.mainickweb.com/blog/dependency-injection-design-patterns)
+- [Parametri delle funzioni in PHP](https://www.mainickweb.com/blog/parametri-delle-funzioni-in-php)
+- [Che cosa è this in JavaScript?](https://www.mainickweb.com/blog/che-cos-e-this-in-javascript)
+- [Come testare un service privato in Symfony](https://www.mainickweb.com/blog/come-testare-un-service-privato-in-symfony)
+- [PHP Match Expression - Match vs Switch](https://www.mainickweb.com/blog/php-match-expression-match-vs-switch)
+- [Funzioni di Ordine Superiore &lpar;HOF&rpar; in JavaScript](https://www.mainickweb.com/blog/funzioni-di-ordine-superiore-in-javascript)
+- [Valori mutabili e immutabili](https://www.mainickweb.com/blog/valori-mutabili-e-immutabili)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog posts](https://www.mainickweb.com)
