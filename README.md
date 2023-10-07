@@ -67,7 +67,7 @@ Senior Web Application Developer. I am a software engineer, a passionate coder, 
 - [Guida ai React Hooks](https://dev.to/mainick/guida-ai-react-hooks-1aii)
 <!-- DEV-TO-POST-LIST:END -->
 
-▶ [...more stories](https://medium.com/webeetle)
+▶ [...more stories](https://dev.to/mainick)
 
 ---
 
