@@ -60,6 +60,7 @@ Senior Web Application Developer. I am a software engineer, a passionate coder, 
 ### 📝 Latest stories on Dev.to
 
 <!-- DEV-TO-POST-LIST:START -->
+- [In PHP, function parameters](https://dev.to/mainick/in-php-function-parameters-3ne0)
 - [How to test a private service in Symfony](https://dev.to/mainick/how-to-test-a-private-service-in-symfony-2m91)
 - [PHP Match Expression - Match vs Switch](https://dev.to/mainick/php-match-expression-match-vs-switch-3j5b)
 - [Using array_merge in a PHP loop is considered bad practice](https://dev.to/mainick/using-arraymerge-in-a-php-loop-is-considered-bad-practice-3bgd)
