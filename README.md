@@ -50,6 +50,7 @@ Senior Web Application Developer. I am a software engineer, a passionate coder, 
 ### 📜 My recent posts on [Dev.to](https://dev.to/mainick)
 
 <!-- DEV-TO-POST-LIST:START -->
+- [KeycloakClientBundle: A Symfony Bundle for Integrating with Keycloak](https://dev.to/mainick/keycloakclientbundle-a-symfony-bundle-for-integrating-with-keycloak-3el3)
 - [Date Analysis Using date_parse&lpar;&rpar; and date_parse_from_format&lpar;&rpar; Functions](https://dev.to/mainick/date-analysis-using-dateparse-and-dateparsefromformat-functions-2mdh)
 - [In PHP, function parameters](https://dev.to/mainick/in-php-function-parameters-3ne0)
 - [How to test a private service in Symfony](https://dev.to/mainick/how-to-test-a-private-service-in-symfony-2m91)
