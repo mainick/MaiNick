@@ -50,7 +50,7 @@ Senior Web Application Developer. I am a software engineer, a passionate coder, 
 ### 📜 My recent posts on [Dev.to](https://dev.to/mainick)
 
 <!-- DEV-TO-POST-LIST:START -->
-- [Release Announcement: KeycloakClientBundle v2.0](https://dev.to/mainick/release-announcement-keycloakclientbundle-v20-3oga)
+- [KeycloakClientBundle 2.0: added integration with Symfony&#39;s Security component](https://dev.to/mainick/release-announcement-keycloakclientbundle-v20-3oga)
 - [DTO vs VO in PHP](https://dev.to/mainick/dto-vs-vo-in-php-4adi)
 - [KeycloakClientBundle: A Symfony Bundle for Integrating with Keycloak](https://dev.to/mainick/keycloakclientbundle-a-symfony-bundle-for-integrating-with-keycloak-3el3)
 - [Date Analysis Using date_parse&lpar;&rpar; and date_parse_from_format&lpar;&rpar; Functions](https://dev.to/mainick/date-analysis-using-dateparse-and-dateparsefromformat-functions-2mdh)
