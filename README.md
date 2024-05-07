@@ -50,6 +50,7 @@ Senior Web Application Developer. I am a software engineer, a passionate coder, 
 ### 📜 My recent posts on [Dev.to](https://dev.to/mainick)
 
 <!-- DEV-TO-POST-LIST:START -->
+- [Using Symfony Messenger to Manage Message Queues in Symfony](https://dev.to/mainick/using-symfony-messenger-to-manage-message-queues-in-symfony-2o68)
 - [KeycloakClientBundle 2.0: added integration with Symfony&#39;s Security component](https://dev.to/mainick/release-announcement-keycloakclientbundle-v20-3oga)
 - [DTO vs VO in PHP](https://dev.to/mainick/dto-vs-vo-in-php-4adi)
 - [KeycloakClientBundle: A Symfony Bundle for Integrating with Keycloak](https://dev.to/mainick/keycloakclientbundle-a-symfony-bundle-for-integrating-with-keycloak-3el3)
