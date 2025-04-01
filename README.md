@@ -20,6 +20,7 @@ Senior Web Application Developer. I am a software engineer, a passionate coder, 
 ### 📜 Latest stories on [Medium](https://medium.com/webeetle)
 
 <!-- MEDIUM-STORIES:START -->
+- [Il componente Workflow di Symfony: semplificare i flussi di lavoro complessi](https://medium.com/webeetle/il-componente-workflow-di-symfony-semplificare-i-flussi-di-lavoro-complessi-3770ddd0c217?source=rss-6d7da3992557------2)
 - [Utilizzare Symfony Messenger per gestire code di messaggi in Symfony](https://medium.com/webeetle/utilizzare-symfony-messenger-per-gestire-code-di-messaggi-in-symfony-6265dd8d546c?source=rss-6d7da3992557------2)
 - [DTO vs VO in PHP](https://medium.com/webeetle/dto-vs-vo-in-php-cb068e227df4?source=rss-6d7da3992557------2)
 - [Novità delle ultime minor di PHP 8.x](https://medium.com/webeetle/novit%C3%A0-delle-ultime-minor-di-php-8-x-555914b8e395?source=rss-6d7da3992557------2)
@@ -29,7 +30,6 @@ Senior Web Application Developer. I am a software engineer, a passionate coder, 
 - [Novità in PHP 7](https://medium.com/webeetle/novit%C3%A0-in-php-7-bb085c6f2e05?source=rss-6d7da3992557------2)
 - [Il particolare comportamento dell’auto-increment nelle tabelle MySQL InnoDB](https://medium.com/webeetle/il-particolare-comportamento-dellauto-increment-nelle-tabelle-mysql-innodb-4fd769c340cd?source=rss-6d7da3992557------2)
 - [L’evoluzione di PHP](https://medium.com/webeetle/levoluzione-di-php-5301f6402b30?source=rss-6d7da3992557------2)
-- [Come gestire gli errori in React](https://medium.com/webeetle/come-gestire-gli-errori-in-react-9c5c1faddbee?source=rss-6d7da3992557------2)
 <!-- MEDIUM-STORIES:END -->
 
 ### 📜 My recent articles on [MaiNickWeb.com](https://www.mainickweb.com)
