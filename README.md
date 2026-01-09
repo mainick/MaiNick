@@ -20,6 +20,7 @@ Senior Web Application Developer. I am a software engineer, a passionate coder, 
 ### 📜 Latest stories on [Medium](https://medium.com/webeetle)
 
 <!-- MEDIUM-STORIES:START -->
+- [Circuit Breaker e fallback multilivello: progettare servizi resilienti durante una migrazione MySQL](https://medium.com/webeetle/circuit-breaker-e-fallback-multilivello-progettare-servizi-resilienti-durante-una-migrazione-mysql-6db8f5b2fc31?source=rss-6d7da3992557------2)
 - [Scopri gli Hook per le proprietà in PHP 8.4: Getter e Setter più Semplici](https://medium.com/webeetle/scopri-gli-hook-per-le-propriet%C3%A0-in-php-8-4-getter-e-setter-pi%C3%B9-semplici-e0f7177c8230?source=rss-6d7da3992557------2)
 - [I principi SOLID in Symfony: Migliorare la Qualità del Codice](https://medium.com/webeetle/i-principi-solid-in-symfony-migliorare-la-qualit%C3%A0-del-codice-603c5d5a3af5?source=rss-6d7da3992557------2)
 - [Il componente Workflow di Symfony: semplificare i flussi di lavoro complessi](https://medium.com/webeetle/il-componente-workflow-di-symfony-semplificare-i-flussi-di-lavoro-complessi-3770ddd0c217?source=rss-6d7da3992557------2)
@@ -29,7 +30,6 @@ Senior Web Application Developer. I am a software engineer, a passionate coder, 
 - [Attributi in PHP 8](https://medium.com/webeetle/attributi-in-php-8-d0670a777f1a?source=rss-6d7da3992557------2)
 - [phpDay 2023](https://medium.com/webeetle/phpday-2023-3b4c83d95bc3?source=rss-6d7da3992557------2)
 - [Le principali funzionalità di PHP 8.0](https://medium.com/webeetle/le-principali-funzionalit%C3%A0-di-php-8-0-fa880200d8f5?source=rss-6d7da3992557------2)
-- [Novità in PHP 7](https://medium.com/webeetle/novit%C3%A0-in-php-7-bb085c6f2e05?source=rss-6d7da3992557------2)
 <!-- MEDIUM-STORIES:END -->
 
 ### 📜 My recent articles on [MaiNickWeb.com](https://www.mainickweb.com)
