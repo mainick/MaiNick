@@ -20,6 +20,7 @@ Senior Web Application Developer. I am a software engineer, a passionate coder, 
 ### 📜 Latest stories on [Medium](https://medium.com/webeetle)
 
 <!-- MEDIUM-STORIES:START -->
+- [UX Toolkit: Come Creare Design System su Symfony con Componenti Riutilizzabili](https://medium.com/webeetle/ux-toolkit-come-creare-design-system-su-symfony-con-componenti-riutilizzabili-0c3e7d7fbfa4?source=rss-6d7da3992557------2)
 - [Symfony 8: Tutte le Novità del Framework PHP](https://medium.com/webeetle/symfony-8-tutte-le-novit%C3%A0-del-framework-php-c1f8b4edb704?source=rss-6d7da3992557------2)
 - [Circuit Breaker e fallback multilivello: progettare servizi resilienti durante una migrazione MySQL](https://medium.com/webeetle/circuit-breaker-e-fallback-multilivello-progettare-servizi-resilienti-durante-una-migrazione-mysql-6db8f5b2fc31?source=rss-6d7da3992557------2)
 - [Scopri gli Hook per le proprietà in PHP 8.4: Getter e Setter più Semplici](https://medium.com/webeetle/scopri-gli-hook-per-le-propriet%C3%A0-in-php-8-4-getter-e-setter-pi%C3%B9-semplici-e0f7177c8230?source=rss-6d7da3992557------2)
@@ -29,7 +30,6 @@ Senior Web Application Developer. I am a software engineer, a passionate coder, 
 - [DTO vs VO in PHP](https://medium.com/webeetle/dto-vs-vo-in-php-cb068e227df4?source=rss-6d7da3992557------2)
 - [Novità delle ultime minor di PHP 8.x](https://medium.com/webeetle/novit%C3%A0-delle-ultime-minor-di-php-8-x-555914b8e395?source=rss-6d7da3992557------2)
 - [Attributi in PHP 8](https://medium.com/webeetle/attributi-in-php-8-d0670a777f1a?source=rss-6d7da3992557------2)
-- [phpDay 2023](https://medium.com/webeetle/phpday-2023-3b4c83d95bc3?source=rss-6d7da3992557------2)
 <!-- MEDIUM-STORIES:END -->
 
 ### 📜 My recent articles on [MaiNickWeb.com](https://www.mainickweb.com)
